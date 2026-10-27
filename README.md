@@ -9,6 +9,8 @@
 
 GoodsPass brings commercial documents, product facts, classification support, origin, valuation and conditional obligations into one reviewable customs workflow.
 
+The technology overview covers the browser-based JavaScript interface, Node.js application, PostgreSQL persistence and Docker/Linux containers on Azure Container Apps Consumption. It does not disclose sensitive implementation details or claim current production availability.
+
 This repository intentionally contains **only non-confidential introductory material**. It contains no application source code, detailed financial model, customer data, contributor contracts or internal fundraising documents. The previous detailed presentation repository is private.
 
 Detailed materials and a synthetic-data demonstration are available for qualified discussions. Contact **Cristian Apostol**, Managing Partner, at [office@clarified.ro](mailto:office@clarified.ro).
