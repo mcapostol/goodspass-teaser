@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">GoodsPass</title>
+  <desc id="desc">A goods passport with a parcel and a verified route.</desc>
+  <rect x="5" y="3" width="48" height="58" rx="12" fill="#0f5d63"/>
+  <path d="M14 5v54" stroke="#8ac5bd" stroke-width="2"/>
+  <path d="m33 14 12 7v14l-12 7-12-7V21Z" fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="m21 21 12 7 12-7M33 28v14m-18 9h15" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="49" cy="47" r="13" fill="#d8bf84" stroke="#fff" stroke-width="2"/>
+  <path d="m43 47 4 4 8-9" fill="none" stroke="#083c46" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
